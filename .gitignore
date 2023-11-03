@@ -1,0 +1,4 @@
+.RData
+.Rhistory
+db_credentials.R
+query.sql
